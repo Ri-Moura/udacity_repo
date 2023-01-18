@@ -1,0 +1,13 @@
+name: exercise_3
+channels:
+  - pyenv
+  - defaults
+dependencies:
+ - python=3.8
+ - pip=20.3.3
+ - requests=2.24.0
+ - mlflow=1.14.1
+ - hydra-core=1.0.6
+ - pip:
+  - wandb==0.10.21
+

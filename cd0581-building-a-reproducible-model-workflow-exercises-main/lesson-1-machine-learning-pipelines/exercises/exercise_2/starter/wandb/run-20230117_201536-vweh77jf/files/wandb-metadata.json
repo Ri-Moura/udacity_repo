@@ -1,0 +1,94 @@
+{
+    "os": "Linux-5.15.79.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.2",
+    "heartbeatAt": "2023-01-17T23:15:37.198999",
+    "startedAt": "2023-01-17T23:15:36.264499",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+        "--artifact_name",
+        "iris",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "The sklearn IRIS dataset"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/ricardomoura/OneDrive - falconi365/\u00c1rea de Trabalho/projetos/udacity/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/download_data.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/download_data.py",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/ricardomoura/OneDrive - falconi365/\u00c1rea de Trabalho/projetos/udacity/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "FALCONI-d25646",
+    "username": "ricardomoura",
+    "executable": "/home/ricardomoura/.pyenv/versions/3.10.2/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1689.6000000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.92389297485352,
+        "used": 60.666526794433594
+    },
+    "gpu": "NVIDIA GeForce MX450",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX450",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.494110107421875
+    }
+}
