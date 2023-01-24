@@ -1,0 +1,94 @@
+{
+    "os": "Linux-5.15.79.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.10.4",
+    "heartbeatAt": "2023-01-24T13:23:59.263955",
+    "startedAt": "2023-01-24T13:23:58.324070",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "--name",
+        "exercise_4/genres_mod.parquet",
+        "--type",
+        "raw_data",
+        "--description",
+        "A modified version of the songs dataset",
+        "genres_mod.parquet"
+    ],
+    "state": "running",
+    "program": "/home/ricardomoura/.pyenv/versions/miniconda3-4.7.12/envs/udacity-module2/bin/wandb",
+    "git": {
+        "remote": "git@github.com:Ri-Moura/udacity_repo.git",
+        "commit": "6afb372c55ce3a3c143065256ceada7bc64a4427"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/ricardomoura/OneDrive - falconi365/\u00c1rea de Trabalho/projetos/udacity/udacity_repo",
+    "host": "FALCONI-d25646",
+    "username": "ricardomoura",
+    "executable": "/home/ricardomoura/.pyenv/versions/miniconda3-4.7.12/envs/udacity-module2/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1689.6000000000001,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1689.6,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.92389297485352,
+        "used": 66.45752716064453
+    },
+    "gpu": "NVIDIA GeForce MX450",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX450",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.494110107421875
+    }
+}

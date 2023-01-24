@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/ricardomoura/OneDrive%20-%20falconi365/%C3%81rea%20de%20Trabalho/projetos/udacity/udacity_repo/cd0581-building-a-reproducible-model-workflow-exercises-main/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/mlruns/0/a97c07beb03c447c8ca686bd69053d3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a97c07beb03c447c8ca686bd69053d3f
+run_name: puzzled-grouse-386
+run_uuid: a97c07beb03c447c8ca686bd69053d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674566666822
+status: 1
+tags: []
+user_id: ricardomoura
